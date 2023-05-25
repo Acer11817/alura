@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Internet nas escolas publicas</title>
+
+    </head>
+
+    <body>
+        <h1>
+            Internet nas escolas
+        </h1>
+        A presença da Internet nas escolas públicas é extremamente importante para o desenvolvimento educacional dos alunos. A Internet pode fornecer acesso a informações valiosas e recursos educacionais, bem como fornecer aos alunos uma maneira de se comunicarem e colaborarem uns com os outros e com professores em todo o mundo.
+        <p>
+            No entanto, a disponibilidade da Internet nas escolas públicas pode variar muito em diferentes países e regiões. Em alguns casos, as escolas podem não ter acesso à Internet devido a limitações financeiras ou tecnológicas. Em outros casos, as escolas podem ter acesso à Internet, mas podem não ter a largura de banda necessária para suportar o uso intensivo da rede.
+            <p>
+                Além disso, a disponibilidade da Internet também pode levar a problemas de segurança, como o acesso a conteúdo inapropriado ou a risco de cyberbullying. Portanto, é importante que as escolas tenham políticas claras e eficazes em relação ao uso da Internet pelos alunos, bem como ferramentas de segurança adequadas para proteger os alunos de potenciais riscos.
+                <p>
+                    Em resumo, a presença da Internet nas escolas públicas é crucial para garantir que os alunos tenham acesso a recursos educacionais valiosos e possam se comunicar e colaborar uns com os outros e com professores de todo o mundo. No entanto, é importante que as escolas também tenham políticas claras e eficazes em relação ao uso da Internet e ferramentas de segurança adequadas para garantir a segurança dos alunos.
+            
+                </p>
+            </p>
+        </p>
+</body>
+    
+
+                         <h2> Esta é uma foto dos alunos usando a plataforma do estado</h2>
+                            <img src="imagem/internet_nas_escolas1.png.jpg" width="550" height="700">
+     
+                                <style>
+                                         body {
+                                                 background-color: rgb(245, 189, 197);
+                                                     }
+                                                        </style>
+</html>
